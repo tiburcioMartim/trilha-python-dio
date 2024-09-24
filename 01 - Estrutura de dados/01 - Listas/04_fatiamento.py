@@ -1,3 +1,5 @@
+# start, end, step
+
 lista = ["p", "y", "t", "h", "o", "n"]
 
 print(lista[2:])  # ["t", "h", "o", "n"]

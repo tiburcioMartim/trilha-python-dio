@@ -1,3 +1,4 @@
+# Remove a primeira ocorrencia
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 linguagens.remove("c")

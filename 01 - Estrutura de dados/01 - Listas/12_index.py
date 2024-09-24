@@ -1,3 +1,4 @@
+# Retorna a primeira ocorrência.
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 print(linguagens.index("java"))  # 3

@@ -13,3 +13,5 @@ print(numeros)
 
 pais = ("Brasil",)
 print(pais)
+
+print(frutas[0])
